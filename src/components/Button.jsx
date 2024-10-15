@@ -1,4 +1,5 @@
-import React from 'react';
+/* eslint-disable react/prop-types */
+
 
 const Button = ({ children, type, handle }) => {
     const style = type === 'danger'
