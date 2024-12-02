@@ -11,6 +11,7 @@ const Button = ({ children, type, handle }) => {
       <button className={style} onClick={handle}>
         {children}
       </button>
+      {/* <h1></h1> */}
     </div>
   );
 };
