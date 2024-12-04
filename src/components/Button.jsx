@@ -12,6 +12,7 @@ const Button = ({ children, type, handle }) => {
         {children}
       </button>
       {/* <h1></h1> */}
+      {/* <h1></h1> */}
     </div>
   );
 };
